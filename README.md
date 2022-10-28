@@ -5,19 +5,22 @@ Currently a CE student at Kasetsart University!
 
 I am mostly working with backend related stuff. But I'm also interested in game developement too!
 
-Most of the repositories will likely be university works and some silly project I made (which a lot of them is quite silly)
+Most of the repositories will likely be university works and some silly project I made (which a lot of them is quite silly).
 
-These are the languages and tools that I mostly use
+These are the languages and tools that I mostly use.
 Python
 JavaScript NodeJS Express
 MongoDB
 GIT
 C# mostly for Unity
 
-I also use these but will be less skilled that above
+I also use these but will be less skilled that above.
 C
 C++
 HTML
 CSS
+
+Some stats too, if you're curios
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reidicios&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 You can contact me via these
