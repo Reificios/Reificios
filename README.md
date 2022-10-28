@@ -23,7 +23,8 @@ These are the languages and tools that I mostly use.
 <h4>
 I also use these but will be less skilled that above.
 </h4>
----
+
+___
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,7 +38,9 @@ Some stats too, if you're curios
 <h4>
 You can contact me via these
 </h4>
----
+
+___
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Reificios/)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <h6>
