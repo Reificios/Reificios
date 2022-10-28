@@ -38,14 +38,15 @@ You can contact me via these
 
 <h2>
 These are probably my best works (for now...) <br>
+</h2>
 - Lead backend developer for this website for an online auctioning website
 <a href="https://github.com/KUOnlineAuction/backend">
     <img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/KUOnlineAuction/backend.png" width="460px">
-</a>
+</a><br>
 - Backend developer for Automatic watering system for plants
 <a href="https://github.com/Exceed-Group6/WateringSystem-backend">
     <img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Exceed-Group6/WateringSystem-backend.png" width="460px">
-</a>
+</a><br>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Reificios/)
