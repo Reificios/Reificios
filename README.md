@@ -11,18 +11,21 @@ I am mostly working with backend related stuff. But I'm also interested in game 
 Most of the repositories will likely be university works and some silly project I made (which a lot of them is quite silly).
 </div>
 
-These are the languages and tools that I mostly use.
-Python
-JavaScript NodeJS Express
-MongoDB
-GIT
-C# mostly for Unity
+<div>
+    These are the languages and tools that I mostly use.
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+    JavaScript NodeJS Express
+    MongoDB
+    GIT
+    C# mostly for Unity
+    I also use these but will be less skilled that above.
+    C
+    C++
+    HTML
+    CSS
+</div>
 
-I also use these but will be less skilled that above.
-C
-C++
-HTML
-CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reificios)](https://github.com/anuraghazra/github-readme-stats)
 
 Some stats too, if you're curios
 
