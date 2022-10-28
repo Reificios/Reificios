@@ -1,11 +1,15 @@
-Welcome welcome!
+<h1> 
+    Welcome welcome!
+</h1>
 
+<div>
 My name is Phoonum Saelao, but I prefer using "Reificios" online since my name is kinda hard to say in English.
 Currently a CE student at Kasetsart University!
 
 I am mostly working with backend related stuff. But I'm also interested in game developement too!
 
 Most of the repositories will likely be university works and some silly project I made (which a lot of them is quite silly).
+</div>
 
 These are the languages and tools that I mostly use.
 Python
