@@ -35,8 +35,10 @@ Some stats too, if you're curios
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reificios&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 You can contact me via these
----
 
+---
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Reificios/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<h6>
+(I don't use a lot of social media since I mostly lurk... so these are all you got!)
+</h6>
